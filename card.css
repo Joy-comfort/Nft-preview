@@ -1,0 +1,27 @@
+.card{
+    background-color: rgba(5, 5, 75, 0.925);
+}
+img{
+    height: 20px;
+    width: 20px;
+}
+.container{
+    width: 400px;
+    height: 230px;
+}
+.card-header img{ border-radius: 30;
+    width: 90px;
+    height: 80px;
+}
+body{
+    background-color: darkslateblue;
+}
+.card-bottom{
+    display: flex;
+}
+ p{
+    display: inline;
+}
+img{
+    display: flex;
+}
